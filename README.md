@@ -28,9 +28,10 @@
 - Bash (DevOps scripting)
 
 **Learning:**
-- Machine Learning (PyTorch)
+- DevOps
 - Systems Programming (C)
 - Algorithms & Data Structures
+- System Design
 
 ---
 
