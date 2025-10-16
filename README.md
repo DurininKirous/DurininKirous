@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Hajimurat Alikhanov
 
-<!--
-**DurininKirous/DurininKirous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Middle DevOps Engineer** | 🎓 HSE MIEM (Computer Security) | 🏔️ Kubachi, Dagestan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔨 Building production infrastructure with **Kubernetes**, **Terraform**, **Ansible**
+- 💻 Writing automation tools in **Go** and **Python**
+- 📚 Maintaining knowledge base: **500+ technical notes** (Obsidian)
+- 🧠 Solving algorithms: **90+ LeetCode problems** (growing daily)
+- 🎯 Goal: **DevOps Engineer @ Google** (2029)
+
+---
+
+## 🛠️ Tech Stack
+
+**Infrastructure:**
+- Kubernetes, Docker, Terraform, Ansible
+- CI/CD: GitHub Actions, GitLab CI
+- Monitoring: Prometheus, Grafana, Zabbix, VictoriaMetrics
+- Cloud: Yandex Cloud, AWS (learning)
+
+**Languages:**
+- Go (backend, CLI tools, systems programming)
+- Python (automation, scripting, data processing)
+- Bash (DevOps scripting)
+
+**Learning:**
+- Machine Learning (PyTorch)
+- Systems Programming (C)
+- Algorithms & Data Structures
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DurininKirous&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/hajimurat-alikhanov-94498b345)
+- 📧 durininkirous@mail.ru
+- 🐦 Telegram: @durininkirous
+
+---
+
+> "From Kubachi craftsmanship to code — building with precision" 🏔️→💻
