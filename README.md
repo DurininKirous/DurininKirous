@@ -62,3 +62,6 @@
   </a>
 </p>
 
+---
+
+> **"From Kubachi craftsmanship to code — building with precision"** 🏔️💻
