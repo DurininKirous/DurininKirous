@@ -8,7 +8,7 @@
 
 - 🔨 Building **production infrastructure** with **Kubernetes**, **Terraform**, **Ansible**
 - 💻 Writing **automation tools** in **Go** and **Python**
-- 📚 Maintaining **knowledge base**: **500+ technical notes** (Obsidian + Spaced Repetition)
+- 📚 Maintaining **knowledge base**: **600+ technical notes** (Obsidian + Spaced Repetition)
 - 🧠 Solving **algorithms**: **100+ LeetCode problems** (growing to 400+ by Jan 2026)
 - 🎯 **Goal**: DevOps Engineer @ Google (2029)
 
