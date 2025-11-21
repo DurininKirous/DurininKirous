@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hajimurat Alikhanov
 
-🔧 **Middle DevOps Engineer** | 🎓 HSE MIEM (Computer Security) | 🏔️ Kubachi, Dagestan
+🔧 ** DevOps Engineer** | 🎓 HSE MIEM (Computer Security) | 🏔️ Kubachi, Dagestan
 
 ---
 
